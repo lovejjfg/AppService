@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AppService</string>
+    <string name="accessibility_install_label">应用监听</string>
+</resources>
